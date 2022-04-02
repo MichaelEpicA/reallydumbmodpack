@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExampleMod": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\micha\\source\\repos\\Build Among Us\\bin\\Debug\\Build Among Us.exe",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Among Us My Mod\"",
+      "workingDirectory": "C:\\Users\\micha\\source\\repos\\ExampleMod\\ExampleMod"
+    }
+  }
+}

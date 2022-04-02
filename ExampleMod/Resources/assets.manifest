@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1238302515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbd5c7a4e32f58a7fee8192c4c28a41f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/hole.png
+- Assets/Assets/yawn.mp3
+Dependencies: []
